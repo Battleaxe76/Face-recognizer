@@ -1,0 +1,16 @@
+body {
+    
+background-image:linear-gradient(lightblue ,blue,darkblue) ;
+}
+.heading {
+width: 80%;
+font-size: 22px;
+}
+#camera{
+    border: 10px dashed grey ;
+width: 400px ;
+height: 500px;
+}
+.name_of_objects, #result_object_name , #result_object_accuracy { 
+    color:grey
+    ; }
